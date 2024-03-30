@@ -1,1 +1,1 @@
-This is the windows form code you can find the backend code in this repositry https://github.com/AliAljawad/E_Library_API . And the DataBase file is attached here as "E_Library2.0.bacpac" just import it into SQL Server Management Studio.
+This is the windows form code you can find the backend code in this repositry https://github.com/AliAljawad/E_Library_API . And the DataBase file is attached here as "E_Library2.0.bacpac" just import it into SQL Server Management Studio.The application is still missing feature that will be added soon stay updated.
